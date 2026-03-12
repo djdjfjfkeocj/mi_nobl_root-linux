@@ -20,3 +20,7 @@ chmod +x ksu_oneclick.sh
 tips:
 不知道为什么，我不能按照mi_nobl_root的第二步来修复
 会导致变砖（给我干进recovry里了，差点没了）
+
+
+关于清理：
+如果不再临时root想要清光手机里临时root的文件删除/data/adb和/data/local/tmp然后重启删除ksu manager。应该是这样，我不确定，谨慎操作，反正我想要换个方案就是这样子做的。
